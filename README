@@ -1,4 +1,6 @@
 this is the clientside for my mouse and keyboard emulator
+you need to compile sfml-network 2.0 and sfml-system 2.0 (works ootb)
+because sfml-network is a dependency
 
 usage: ./mynewmousec
 
