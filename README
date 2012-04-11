@@ -1,4 +1,7 @@
 this is the clientside for my mouse and keyboard emulator
+
+screenshots: http://tinyurl.com/cb4wogn
+
 you need to compile sfml-network 2.0 and sfml-system 2.0 (works ootb)
 because sfml-network is a dependency
 
